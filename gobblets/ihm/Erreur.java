@@ -1,0 +1,19 @@
+package gobblets.ihm;
+
+public enum Erreur {
+	PASDEPIECEDISPONIBLE,
+	PASTAPIECE,
+	CASEBLOQUEE,
+	ARGUMENTCORRECT,
+	PASDEPIECEICI,
+	PASDETAILLEDISPONIBLE,
+	DIAGONALEINCORRECTE,
+	ORIGINEVIDE, 
+	ERREUR, 
+	IMPLACE, 
+	IMPDEPLACE;
+	
+	Erreur(){
+		//TODO (je sais pas trop quoi mettre)	
+	}
+}

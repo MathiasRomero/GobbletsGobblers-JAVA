@@ -1,0 +1,22 @@
+package gobblets.ihm;
+
+public enum Avertissement  {
+	TONTOUR,
+	CHOIXACTION,
+	CHOIXTAILLE,
+	NOMJOUEUR,
+	COULEURJOUEUR,
+	CHOIXORIGIN,
+	CHOIXDESTINATION,
+	PIECERESTANTE,
+	CHOIXCOULEUR,
+	JOUEURCOULDIF,
+	REGLE,
+	JOUEUR;
+	
+	
+	Avertissement(){
+
+	}
+}
+
